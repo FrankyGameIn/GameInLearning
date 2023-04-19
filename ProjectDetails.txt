@@ -1,2 +1,0 @@
-hello Everyone 
-This is a learning project for version control system.
